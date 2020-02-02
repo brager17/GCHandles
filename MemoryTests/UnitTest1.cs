@@ -7,7 +7,7 @@ using System.Security.Permissions;
 using Xunit;
 using Xunit.Abstractions;
 
-namespace Kimedics.MemoryTests
+namespace MemoryTests
 {
     public class ICallForTest1Tests
     {

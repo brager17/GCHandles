@@ -5,7 +5,8 @@
 
         <IsPackable>false</IsPackable>
 
-        <RootNamespace>Kimedics.MemoryTests</RootNamespace>
+        <RootNamespace>MemoryTests</RootNamespace>
+        <RootNamespace>MemoryTests</RootNamespace>
     </PropertyGroup>
 
     <ItemGroup>
