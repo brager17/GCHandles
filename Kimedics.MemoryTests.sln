@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kimedics.MemoryTests", "Kimedics.MemoryTests\Kimedics.MemoryTests.csproj", "{BF948F42-B3EF-44AA-96DE-F5EA8A93B1F6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MemoryTests", "MemoryTests\MemoryTests.csproj", "{BF948F42-B3EF-44AA-96DE-F5EA8A93B1F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GcHandleTests", "GcHandleTests\GcHandleTests.csproj", "{006E94B6-89DF-4749-BDA8-B1A794524666}"
 EndProject

@@ -1,10 +1,10 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\Kimedics.MemoryTests\\Kimedics.MemoryTests.csproj",
-    "projectName": "Kimedics.MemoryTests",
-    "projectPath": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\Kimedics.MemoryTests\\Kimedics.MemoryTests.csproj",
-    "outputPath": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\Kimedics.MemoryTests\\obj\\",
+    "projectUniqueName": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\MemoryTests\\MemoryTests.csproj",
+    "projectName": "MemoryTests",
+    "projectPath": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\MemoryTests\\MemoryTests.csproj",
+    "outputPath": "C:\\Users\\evgeniy\\RiderProjects\\Kimedics.MemoryTests\\MemoryTests\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
