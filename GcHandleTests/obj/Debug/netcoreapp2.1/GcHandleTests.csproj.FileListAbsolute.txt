@@ -1,0 +1,10 @@
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\bin\Debug\netcoreapp2.1\GcHandleTests.deps.json
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\bin\Debug\netcoreapp2.1\GcHandleTests.runtimeconfig.json
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\bin\Debug\netcoreapp2.1\GcHandleTests.runtimeconfig.dev.json
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\bin\Debug\netcoreapp2.1\GcHandleTests.dll
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\bin\Debug\netcoreapp2.1\GcHandleTests.pdb
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\obj\Debug\netcoreapp2.1\GcHandleTests.csprojAssemblyReference.cache
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\obj\Debug\netcoreapp2.1\GcHandleTests.AssemblyInfoInputs.cache
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\obj\Debug\netcoreapp2.1\GcHandleTests.AssemblyInfo.cs
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\obj\Debug\netcoreapp2.1\GcHandleTests.dll
+C:\Users\evgeniy\RiderProjects\Kimedics.MemoryTests\GcHandleTests\obj\Debug\netcoreapp2.1\GcHandleTests.pdb
